@@ -1,1 +1,9 @@
-# Intentionally empty. Cloudflare Pages resolves clean URLs natively.
+# Renamed blog posts (v11). Both the slash and no-slash forms, 301.
+/blog/slab-leak-insurance-florida/ /blog/slab-leak-insurance-jupiter-fl/ 301
+/blog/slab-leak-insurance-florida /blog/slab-leak-insurance-jupiter-fl/ 301
+/blog/polybutylene-pipes-florida/ /blog/polybutylene-pipes-jupiter-fl/ 301
+/blog/polybutylene-pipes-florida /blog/polybutylene-pipes-jupiter-fl/ 301
+/blog/slab-leak-repair-cost-florida/ /blog/slab-leak-repair-cost-jupiter-fl/ 301
+/blog/slab-leak-repair-cost-florida /blog/slab-leak-repair-cost-jupiter-fl/ 301
+/blog/ceiling-stain-leak-or-ac-drain/ /blog/ceiling-water-stain-jupiter-fl/ 301
+/blog/ceiling-stain-leak-or-ac-drain /blog/ceiling-water-stain-jupiter-fl/ 301
